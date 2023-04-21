@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'VengatWebAppSer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F981206B4A5348A89BB95338CBB5B183 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12DB57CF44BC4EF0BF11F81592AB7543 }}
           package: .
